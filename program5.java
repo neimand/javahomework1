@@ -13,7 +13,7 @@ class program5 {
     }
     public static void main(String args[])
     {
-        String str = "Ля2Ля46Ля86";
+        String str = "Ля2Ля46Ля8";
         System.out.println(removeAllDigit(str));
     }
 }
